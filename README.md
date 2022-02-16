@@ -704,7 +704,7 @@ MODERNIZATION:
               <a class="nav-link" href="#"></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="https://economictimes.indiatimes.com/topic/bureau-of-police-research-and-development">Important News</a>
+              <a class="nav-link active" href="https://economictimes.indiatimes.com/topic/bureau-of-police-research-and-development">Important News.</a>
             </li>
         </ul>
         <hr class="d-sm-none">
